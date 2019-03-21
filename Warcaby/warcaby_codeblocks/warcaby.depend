@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1528309480 source:c:\users\rraaj\desktop\codeblocks\warcaby\warcaby\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"plansza.h"
+
+1528296551 c:\users\rraaj\desktop\codeblocks\warcaby\warcaby\include\plansza.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1528296551 source:c:\users\rraaj\desktop\codeblocks\warcaby\warcaby\src\plansza.cpp
+	"Plansza.h"
+	<string>
+	<iostream>
+	<cstdlib>
+
+1553163958 source:c:\users\pawel\desktop\prajkowski_235216+codeblocks\prajkowski_235216+codeblocks\warcaby_codeblocks\src\plansza.cpp
+	"Plansza.h"
+	<string>
+	<iostream>
+	<cstdlib>
+
+1553163958 c:\users\pawel\desktop\prajkowski_235216+codeblocks\prajkowski_235216+codeblocks\warcaby_codeblocks\include\plansza.h
+	<string>
+	<iostream>
+	<cstdlib>
+

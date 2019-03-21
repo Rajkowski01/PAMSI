@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1522062056 source:c:\users\rraaj\desktop\codeblocks\drzewo_avl\main.cpp
+	<iostream>
+	<iomanip>
+	"AVL.h"
+	"WezelAVL.h"
+
+1521985243 source:c:\users\rraaj\desktop\codeblocks\drzewo_avl\src\wezelavl.cpp
+	"WezelAVL.h"
+	<iomanip>
+
+1521985124 c:\users\rraaj\desktop\codeblocks\drzewo_avl\include\wezelavl.h
+	<iomanip>
+
+1522067261 source:c:\users\rraaj\desktop\codeblocks\drzewo_avl\src\avl.cpp
+	"AVL.h"
+	"WezelAVL.h"
+	<iomanip>
+	<iostream>
+
+1522060332 c:\users\rraaj\desktop\codeblocks\drzewo_avl\include\avl.h
+	<iomanip>
+	"WezelAVL.h"
+

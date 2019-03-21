@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524676944 source:c:\users\pawel\desktop\codeblocks\projects\sortowania\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"Kopiec.h"
+
+1524674949 c:\users\pawel\desktop\codeblocks\projects\sortowania\include\kopiec.h
+
+1524675587 source:c:\users\pawel\desktop\codeblocks\projects\sortowania\src\kopiec.cpp
+	"Kopiec.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<algorithm>
+
+1553166345 source:c:\users\pawel\desktop\codeblocks\projects\sortowania\sortowania_codeblocks\src\kopiec.cpp
+	"Kopiec.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<algorithm>
+
+1553166345 c:\users\pawel\desktop\codeblocks\projects\sortowania\sortowania_codeblocks\include\kopiec.h
+
+1553167559 source:c:\users\pawel\desktop\codeblocks\projects\sortowania\sortowania_codeblocks\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	"Kopiec.h"
+

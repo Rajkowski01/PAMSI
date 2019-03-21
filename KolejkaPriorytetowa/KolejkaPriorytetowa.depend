@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1521566187 source:c:\users\pawel\desktop\codeblocks\projects\kolejkapriorytetowa\main.cpp
+	<iostream>
+	"Element.h"
+
+1521568885 c:\users\pawel\desktop\codeblocks\projects\kolejkapriorytetowa\include\element.h
+
+1521565870 source:c:\users\pawel\desktop\codeblocks\projects\kolejkapriorytetowa\src\element.cpp
+	"Element.h"
+
+1521570454 source:c:\users\pawel\desktop\codeblocks\projects\kolejkapriorytetowa\src\lista.cpp
+	"Lista.h"
+
+1521570471 c:\users\pawel\desktop\codeblocks\projects\kolejkapriorytetowa\include\lista.h
+	"Element.h"
+
