@@ -13,5 +13,5 @@ Stare projekty, które udało mi się znaleźć.
   do gry w warcaby
 
 Projekty były robione w codeblocks.
-Można by w nich wiele poprawić, ale zostawiłem je takie
+Można by w nich wiele poprawić, ale zostawiłem je takie,
 jakimi były w momencie oddania.
