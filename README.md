@@ -1,4 +1,4 @@
-# stare-projekty
+# Projektowanie algorytmów i metody sztucznej inteligencji
 
 1. DrzewoAVL
    * realizuje strukturę drzewa AVL i jego funkcje
